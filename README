@@ -1,6 +1,6 @@
 
 
-I use a character vector to store the value which
+I use a character vector to store the values which are
 out of the range of an integer.
 
 Operator overloaded: <<  >>  +  -

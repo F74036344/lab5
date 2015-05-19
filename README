@@ -5,5 +5,17 @@ out of the range of an integer.
 
 Operator overloaded: <<  >>  +  -
 
+***I don't know why but it seems that something is wrong
 
+with my function operator+. when it outputs result from addition,
 
+it prints something peculiar like "????"
+
+The program even collapsed when I tried to execute 
+
+the following sentence:
+
+	cout << x+y;	//directly output the result of addition 
+			//instead of storing it into result. 
+
+I don't know why the bug appears :( 
